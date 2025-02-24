@@ -1,5 +1,5 @@
-Hi, I’m @Chudier-Thuok
-I’m interested in of learning programmimg . 
+I’m @Chudier-Thuok 
+I’m interested in of learning programmimg in ENGLISH. 
 I’m currently learning software Engineering, wishing am in to accelerate my career with software Engineering, 
 designed to equip and advances my skill in coding, and web development, software architecture, 
 and I’m looking to collaborate on tools like Git, gmail etc. throught hand-on projects and in-depth training, 
